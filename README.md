@@ -1,1 +1,6 @@
-# subspiral collection of script to make subdomain enumeration.
+# Subspiral
+
+### Usage
+```bash
+./subspiral.sh example.com
+```
